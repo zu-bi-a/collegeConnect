@@ -1,0 +1,49 @@
+.maindiv {
+    margin-bottom: 100px;
+    padding: 100px;
+    padding-top: 30px;
+}
+
+#mainHeading{
+    margin: auto;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.imagee{
+    height: 1000px;
+}
+
+.carousel-content {
+    position: absolute;
+    bottom: 30%; 
+    left: 80%;
+    z-index: 20;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+
+  }
+
+#content{
+    background-color: red;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
+
+#headin{
+    font-family: 'Times New Roman', serif;
+}
+
+.subHeadin{
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: 'Times New Roman', serif;
+}
+
+.content{
+    font-family: Garamond, serif;
+    font-size: 20px;
+}

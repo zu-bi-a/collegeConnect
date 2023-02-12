@@ -1,0 +1,38 @@
+.mainContain{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#mainHeading{
+    margin: auto;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 50px;
+}
+
+#quote{
+    margin: auto;
+    text-align: center;
+    font-style: italic;
+}
+
+.para{
+    margin-bottom: 0px;
+}
+
+.headin{
+    font-size: 40px;
+    font-family: 'Times New Roman', serif;
+}
+
+.paraheadin {
+    font-size: 40px;
+    font-family: 'Times New Roman', serif;
+    margin-bottom: 0px;
+}
+
+.subHead{
+    font-family: Garamond, serif;
+    font-size: 22.5px;
+}
+

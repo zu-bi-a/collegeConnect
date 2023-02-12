@@ -1,0 +1,40 @@
+.headerdiv {
+  width: 100%;
+  height: 80px;
+  background-color: rgb(255, 255, 255);
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 80px;
+  width: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.apptitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+  height: 80px;
+  width: fit-content;
+  font-size: larger;
+}
+
+.loginops {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+  height: 80px;
+  width: fit-content;
+}
+

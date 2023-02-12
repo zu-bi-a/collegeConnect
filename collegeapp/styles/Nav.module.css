@@ -1,0 +1,41 @@
+.nav {
+    height: 50px;
+    padding: 0px;
+    background: #ffffff;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+  }
+
+  .nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    transition: 0.7s all;
+    font-size: 1.2rem;
+  }
+
+  .navliDiv {
+    height: 50px; 
+    display: flex; 
+    flex-direction: row; 
+    align-items: center;
+  }
+  
+  .nav ul li a {
+    margin: 0px 15px;
+  }
+
+  .nav ul li:hover{
+    background-color:#088;
+  }
+
+
+  
